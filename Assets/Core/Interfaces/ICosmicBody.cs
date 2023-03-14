@@ -2,6 +2,6 @@
 {
     public interface ICosmicBody
     {
-        
+        void OnHit(IProjectile spaceship);
     }
 }
